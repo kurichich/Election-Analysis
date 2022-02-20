@@ -18,7 +18,7 @@ Election_results.csv,
 Python 3.7.6, Visual Studio Code
 
 ## Election Audit Results
-The analysis if the election shows that:
+The analysis of the election shows that:
   - There were 369,711 total votes cast in the congressional election.
    
   - There were 3 Counties in the precinct:
@@ -35,5 +35,5 @@ The analysis if the election shows that:
   - The winner of the election was Dianea DeGette who received 73.8% of the vote and 272,892 number of votes.
   
   ## Election Audit Summary
-  
+  The Python script written for this analysis can be modified and used for any election.  For example, voter demographics or political party affiliation can be substituted for County statistics in these results.
   

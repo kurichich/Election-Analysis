@@ -3,17 +3,17 @@
 ## Project Overview
 Results of a recent local congressional election, for the Colorado Board of Elections, was provided as a csv file.  A program was required to compile and summarize the following:
 
-1. Calculate the total number of votes cast.
-2. Determine the number of Counties submitting votes.
-3. Summarize the total votes per County.
-4. Calculate the percentage of total votes submitted by each County.
-5. Determine the County with the largest turnout.
-6. Get a complete list of candidates who received votes.
-7. Calculate the total number of votes each candidate received.
-8. Calculate the percentage of votes each candidate won.
-9. Determine the winner of the election based on popular vote.
+  -Calculate the total number of votes cast.
+  -Determine the number of Counties submitting votes.
+  -Summarize the total votes per County.
+  -Calculate the percentage of total votes submitted by each County.
+  -Determine the County with the largest turnout.
+  -Get a complete list of candidates who received votes.
+  -Calculate the total number of votes each candidate received.
+  -Calculate the percentage of votes each candidate won.
+  -Determine the winner of the election based on popular vote.
 
-##Resources
+## Resources
 Election_results.csv
 Python 3.7.6, Visual Studio Code
 

@@ -9,6 +9,10 @@ Write code to tabulate the election results of a recent local congressional elec
 4. Calculate the percentage of votes each candidate won.
 Determine the winner of the election based on popular vote.
 
+##Resources
+Election_analysis.csv
+Python 3.7.6, Visual Studio Code
+
 ## Summary
 The analysis if the election shows that:
   - There were 369,711 total votes cast.

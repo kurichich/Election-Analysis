@@ -17,15 +17,23 @@ Results of a recent local congressional election, for the Colorado Board of Elec
 Election_results.csv, 
 Python 3.7.6, Visual Studio Code
 
-## Summary
+## Election Audit Results
 The analysis if the election shows that:
-  - There were 369,711 total votes cast.
-  - The candidates were:
-      - Charles Casper Stockham
-      - Diana DeGette
-      - Raymon Anthony Doane
-  - The results were:
-      - Charles received 23.0% of the vote and 85,213 number of votes.
-      - Diana received 73.8% of the vote and 272,892 number of votes.
-      - Raymon received 3.1% of the vote and 11,606 number of votes.
+  - There were 369,711 total votes cast in the congressional election.
+   
+  - There were 3 Counties in the precinct:
+    - Jefferson - 38,855 votes, equating to 10.5% of total precinct votes.
+    - Denver - 306,055 votes, equating to 82.8% of total precinct votes.
+    - Arapahoe - 24,801 votes, equating to 6.7% of total precinct votes.
+  - The largest number of votes were cast in Denver County.
+  
+  - The results per Candidate were:
+      - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes.
+      - Diana DeGette received 73.8% of the vote and 272,892 number of votes.
+      - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
+      
   - The winner of the election was Dianea DeGette who received 73.8% of the vote and 272,892 number of votes.
+  
+  ## Election Audit Summary
+  
+  

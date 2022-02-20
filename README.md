@@ -14,7 +14,7 @@ Results of a recent local congressional election, for the Colorado Board of Elec
   - Determine the winner of the election based on popular vote.
 
 ## Resources
-Election_results.csv
+Election_results.csv, 
 Python 3.7.6, Visual Studio Code
 
 ## Summary
